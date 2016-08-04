@@ -1,0 +1,46 @@
+_repo: Rise-and-Fall-of-Cesar-Birotteau_1942
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wormeley, Katharine Prescott
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '661'
+    url: http://www.gutenberg.org/2009/agents/661
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2005-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle class -- France -- Fiction'
+- !lcsh 'Business enterprises -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Bankruptcy -- Fiction'
+- !lcsh 'Paris (France) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Cosmetics industry -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'French fiction -- Translations into English'
+- GITenberg
+title: Rise and Fall of Cesar Birotteau
+url: http://www.gutenberg.org/ebooks/1942
